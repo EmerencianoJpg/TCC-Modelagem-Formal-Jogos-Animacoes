@@ -1,4 +1,4 @@
-# Desenvolvimento de Jogos Eletrônicos: Uma Abordagem Baseada em Modelagem Formal (Animações)
+# Modelagem hierárquica e análise formal de cenários de jogos com Redes de Petri (Animações)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-Project-blue?style=for-the-badge)
 
